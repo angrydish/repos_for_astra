@@ -12,7 +12,7 @@ deb http://archive.debian.org/debian/ stretch main contrib non-free
 sudo apt install apt-transport-https ca-certificates
 ```
 
-## по желанию
+## после чего поставить эти репки и жить с кайфом
 ```
 #deb cdrom:[OS Astra Linux 1.6 smolensk - amd64 DVD ]/ smolensk contrib main non-free
 # Основной репозиторий (установочный диск)
